@@ -1,7 +1,4 @@
 # Streamlit App with Regression Analysis
-## Project Live link 
-[CSC server LiveLink](http://195.148.20.175:8502/)
-
 
 ## Overview
 This Streamlit application analyzes the relationship between weather conditions and electricity prices in Finland. It uses data visualization, correlation analysis, and linear regression to uncover insights into how weather factors impact electricity pricing. Developed  as part of an energy data analysis project. 
